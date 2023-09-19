@@ -1,0 +1,8 @@
+.horizontal-nav-list {
+  display: flex;
+  flex-direction: row; /* Make the items flow horizontally */
+}
+
+.horizontal-nav-list a.mat-list-item {
+  margin-right: 10px; /* Add some spacing between items if needed */
+}

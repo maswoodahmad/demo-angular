@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 30,
+    "jobTitle": "Software Developer",
+    "department": "Engineering",
+    "isActive": true
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "age": 28,
+    "jobTitle": "Product Manager",
+    "department": "Product Management",
+    "isActive": true
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Johnson",
+    "age": 35,
+    "jobTitle": "Data Analyst",
+    "department": "Data Science",
+    "isActive": false
+  },
+  {
+    "firstName": "Emily",
+    "lastName": "Williams",
+    "age": 32,
+    "jobTitle": "UX Designer",
+    "department": "Design",
+    "isActive": true
+  },
+  {
+    "firstName": "David",
+    "lastName": "Brown",
+    "age": 40,
+    "jobTitle": "Sales Manager",
+    "department": "Sales",
+    "isActive": false
+  }
+]
